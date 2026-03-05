@@ -6,4 +6,11 @@
 - ⚡ Fun fact: **I'm not graduated from engineering faculty or computer science 😁**
 
 ### Connect with me:
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/2496/2496097.png)](https://linkedin.com/in/islamnazmi) [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png)](mailto:nazmy@flowgene.site)
+<p align="left">
+  <a href="https://linkedin.com/in/islamnazmi">
+    <img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" alt="LinkedIn" height="40" style="margin-right: 10px;">
+  </a>
+  <a href="mailto:nazmy@flowgene.site">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="40">
+  </a>
+</p>
