@@ -1,7 +1,7 @@
 # Hi👋, I'm Islam Nazmy
 
 - 🔭 I’m currently working on: **Software Automation, AI Agents, and Internal Systems**
-- Founder of [Hirempire](https://hirempire.com) & [Flowgene](flowgene.site)
+- 🚀 Founder of [Hirempire](https://hirempire.com) & [Flowgene](flowgene.site)
 - 🌱 I’m currently learning: **Authentication, MCP Developments, AI Applications**
 - 💬 Ask me about: **Automation, n8n, JSON, Authentication, and API Security**
 - ⚡ Fun fact: **I'm not graduated from engineering faculty or computer science 😁**
