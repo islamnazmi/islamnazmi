@@ -8,7 +8,7 @@
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/islamnazmi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="margin-right: 30px;">
   </a>
   <a href="mailto:nazmy@flowgene.site">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="40">
